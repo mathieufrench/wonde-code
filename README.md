@@ -18,9 +18,9 @@ Uses Bootstrap and basic tables.
 
 ## Running the application
 
-cp .env.example .env
-vi .env
-* add your key + School ID *
-php artisan serve
+* cp .env.example .env
+* vi .env
+* add your key + School ID
+* php artisan serve
 
 
